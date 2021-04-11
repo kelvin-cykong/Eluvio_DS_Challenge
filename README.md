@@ -5,11 +5,9 @@ My goal is to build an algorithm to classify whether the News is popular (Number
 
 ### Algorithms tested:
 - Logistic Regression
-- kNN
-- Random Forest
-- Simple Neural Network
+- Neural Network
 
 
 
 Created on Apr 7 2021
-Last updated on Apr 9 2021.
+Last updated on Apr 10 2021.
