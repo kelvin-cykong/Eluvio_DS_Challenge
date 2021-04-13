@@ -10,4 +10,4 @@ My goal is to build an algorithm to classify whether the News is popular (Number
 
 
 Created on Apr 7 2021
-Last updated on Apr 10 2021.
+Last updated on Apr 13 2021.
