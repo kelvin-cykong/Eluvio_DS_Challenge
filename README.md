@@ -6,9 +6,10 @@ My goal is to build an algorithm to classify whether the News is popular (Number
 ### Algorithms tested:
 - Logistic Regression
 - Neural Network
-  - Built a Simple Neural Network with 1 hidden layer, dropouts.
+  - Built a Simple Neural Network with 1 hidden layer, two dropouts to reduce overfitting.
+  - Normalization of values for better result.
 
 
 
 Created on Apr 7 2021
-Last updated on Apr 13 2021.
+Last updated on Apr 14 2021.
