@@ -8,6 +8,7 @@ My goal is to build an algorithm to classify whether the News is popular (Number
 - Neural Network
   - Built a Simple Neural Network with 1 hidden layer, two dropouts to reduce overfitting.
   - Normalization of values for better result.
+  - Added explaination to each steps.
 
 
 
